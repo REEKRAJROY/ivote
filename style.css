@@ -21,7 +21,7 @@ html{
 .logo img{
     width: 98px;
     padding: 10px;
-    align-items: center;
+    /*align-items: center;*/
     left: auto;
 }
 
